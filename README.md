@@ -20,7 +20,7 @@ https://galacticnative.github.io/food-festival/
 UofA Coding Bootcamp starter code
 
 ## License 
-
+Node.js, Webpack, Webpack Bundle Analyzer, File Loader, Image Webpack Loader, Service Workers, Webpack Dev Server
 
 ## Contributing 
 There are no contributions at this time. 
